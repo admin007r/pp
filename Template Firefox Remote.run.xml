@@ -1,0 +1,7 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="true" type="FirefoxRemoteDebugType" editBeforeRun="true">
+    <method v="2">
+      <option name="LaunchBrowser.Before.Run" url="http://localhost:63342/asos.html/asos.html" />
+    </method>
+  </configuration>
+</component>
