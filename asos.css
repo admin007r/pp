@@ -69,6 +69,8 @@ padding: 10px 0 ;
     float: left;
     width: 30%;
     color: white;
+    background-color: #222;
+    
     padding: 10px;
     box-sizing: border-box;
 }
