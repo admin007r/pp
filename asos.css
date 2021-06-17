@@ -60,6 +60,7 @@ padding: 10px 0 ;
 }
 .content{
     float: left;
+    margin: 20px;
     width: 70%;
     box-sizing: border-box;
     padding-right: 20px;
